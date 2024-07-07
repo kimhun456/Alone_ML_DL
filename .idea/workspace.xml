@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d910e59-d71b-4cdf-a76d-d8f7f68c6717" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ch5_random_forrest.ipynb" afterDir="false" />
+    <list default="true" id="5d910e59-d71b-4cdf-a76d-d8f7f68c6717" name="Changes" comment="Add ensemble models">
+      <change afterPath="$PROJECT_DIR$/ch6_cluster_algorithm.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch6_k_means.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch6_pca.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fruits_300.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subplot.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch5_cross_validation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ch5_cross_validation.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,9 +27,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2iu9JCdydhLXVCCcryrKnIQewFo" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -35,13 +38,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/hyunjae/mlWorkSpace/Alone_ML_DL"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/hyunjae/mlWorkSpace/Alone_ML_DL&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -50,4 +58,18 @@
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add ensemble models" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add ensemble models" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/hyunjae/mlWorkSpace/Alone_ML_DL/ch6_cluster_algorithm.ipynb</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
 </project>
