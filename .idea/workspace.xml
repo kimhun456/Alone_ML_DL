@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d910e59-d71b-4cdf-a76d-d8f7f68c6717" name="Changes" comment="Add ensemble models">
-      <change afterPath="$PROJECT_DIR$/ch6_cluster_algorithm.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch6_k_means.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch6_pca.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fruits_300.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subplot.ipynb" afterDir="false" />
+    <list default="true" id="5d910e59-d71b-4cdf-a76d-d8f7f68c6717" name="Changes" comment="Add kmeans PCA clustering algo">
+      <change afterPath="$PROJECT_DIR$/ch7_deep_learning.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,12 +22,26 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "kimhun456"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/kimhun456/Alone_ML_DL.git",
+    "accountId": "ca14c5ff-2d64-4e00-841e-2cb8ea30be32"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2iu9JCdydhLXVCCcryrKnIQewFo" />
   <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -53,14 +63,15 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-559ba0cadc45-1e0160e1c7f0-com.jetbrains.pycharm.ds.sharedIndexes.bundled-DS-241.15989.62" />
+        <option value="bundled-python-sdk-afb2d50b81ac-2ff200790375-com.jetbrains.pycharm.ds.sharedIndexes.bundled-DS-241.18034.23" />
       </set>
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add ensemble models" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add ensemble models" />
+    <MESSAGE value="Add kmeans PCA clustering algo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add kmeans PCA clustering algo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
