@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d910e59-d71b-4cdf-a76d-d8f7f68c6717" name="Changes" comment="Add kmeans PCA clustering algo">
-      <change afterPath="$PROJECT_DIR$/ch7_deep_learning.ipynb" afterDir="false" />
+    <list default="true" id="5d910e59-d71b-4cdf-a76d-d8f7f68c6717" name="Changes" comment="Add deep learning">
+      <change afterPath="$PROJECT_DIR$/best-model.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch7_dropout_callback_early_stopping.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-weights.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model-whole.h5" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,18 +27,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "kimhun456"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kimhun456&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/kimhun456/Alone_ML_DL.git",
-    "accountId": "ca14c5ff-2d64-4e00-841e-2cb8ea30be32"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kimhun456/Alone_ML_DL.git&quot;,
+    &quot;accountId&quot;: &quot;ca14c5ff-2d64-4e00-841e-2cb8ea30be32&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -48,13 +51,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/hyunjae/mlWorkSpace/Alone_ML_DL&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/hyunjae/mlWorkSpace/Alone_ML_DL"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -69,9 +73,11 @@
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Add ensemble models" />
     <MESSAGE value="Add kmeans PCA clustering algo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add kmeans PCA clustering algo" />
+    <MESSAGE value="Add deep learning" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add deep learning" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
